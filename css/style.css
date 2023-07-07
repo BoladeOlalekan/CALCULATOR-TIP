@@ -193,6 +193,12 @@ section .tip-container button:hover {
   background-color: hsl(172, 43%, 64%);
 }
 
+footer {
+  text-align: center;
+  justify-content: center;
+  position: relative;
+  bottom: -4em;
+}
 #ppl-msg {
   display: none;
 }
