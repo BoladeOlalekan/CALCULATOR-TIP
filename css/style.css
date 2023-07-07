@@ -199,6 +199,14 @@ footer {
   position: relative;
   bottom: -4em;
 }
+footer .end-page {
+  color: hsl(183, 100%, 15%);
+}
+footer .end-page a {
+  text-decoration: none;
+  color: hsl(186, 14%, 43%);
+}
+
 #ppl-msg {
   display: none;
 }

@@ -229,8 +229,11 @@ footer{
     bottom: -4em;
 
     .end-page{
+        color: hsl(183, 100%, 15%);
+
         a{
-            
+            text-decoration: none;
+            color: hsl(186, 14%, 43%);
         }
     }
 }
